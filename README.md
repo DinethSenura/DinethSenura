@@ -3,16 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinethsenura&label=Profile%20views&color=0e75b6&style=flat" alt="dinethsenura" /> </p>
 
-| ![Dineth's github stats](https://github-readme-stats.vercel.app/api?username=DinethSenura&show_icons=true&theme=tokyonight) | ![Dineth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinethSenura&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinethSenura&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
+- 🌱 I’m currently learning React Native, Android
 - 🎓 I'm an Undergraduate at **SLIIT**
-
 - 👨‍💻 All of my projects are available at [https://dinethsenura.github.io/portfolio/](https://dinethsenura.github.io/portfolio/)
 
 - 📫 How to reach me **dinethsenura6@gmail.com**
+
+  | ![Dineth's github stats](https://github-readme-stats.vercel.app/api?username=DinethSenura&show_icons=true&theme=tokyonight) | ![Dineth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DinethSenura&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinethSenura&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
